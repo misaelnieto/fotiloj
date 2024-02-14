@@ -41,16 +41,16 @@ cast-media-player {
 /* Sample Overlay Text                               */
 /* ------------------------------------------------- */
 cast-media-player:after {
-  content: "SAMPLE";
+  content: "FOTILOJ";
   position: absolute;
   left: 0;
   right: 0;
   top: 50%;
   bottom: 0;
   text-align: center;
-  font-size: 200px;
+  font-size: 150px;
   font-weight: bold;
   margin-top: -150px;
   opacity: 0.5;
-  color: red;
+  color: #090;
 }
